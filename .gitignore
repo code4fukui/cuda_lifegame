@@ -1,3 +1,8 @@
 *.exe
 *.exp
 *.lib
+
+# auto-added by meta-ops
+node_modules/
+.DS_Store
+Thumbs.db
